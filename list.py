@@ -1,4 +1,4 @@
-#The program should build a list of words.
+#The program should build a sorted list of words.
 
 fname = input("Enter file name: ")
 fh = open(fname)
